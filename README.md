@@ -4,12 +4,14 @@
 
 ## Documentation
 
-It's just a biolerplate for your wordpress template(theme) development. every time you want to create a wp project you need to create necessary templates files. with this repo you never need to create them manually.
-you just need to change three important things:
+It's just a boilerplate for your WordPress template(theme) development. Every time you want to create a wp project, you need to create the necessary template files. With this repo, you don't need to create them manually anymore!
+<br>
 
-1. Add all this files into the `wp-content/[your desired tamplate name]` directory.
+You need to do three essential things:
 
-2. Change style.css files with your own data:
+1. Add all these files into the `wp-content/[your desired template name]` directory.
+
+2. Change style.css files with your data:
 
 ```css
 /*
@@ -24,7 +26,7 @@ Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-me
 */
 ```
 
-3. Replace "screenshot.png" with your own screenshot image of your theme.
+3. Replace "screenshot.png" with the screenshot image of your theme.
 
 ## Creator
 
