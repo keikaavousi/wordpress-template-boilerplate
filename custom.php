@@ -1,0 +1,1 @@
+<?php /**template name: custom template page */ ?>
